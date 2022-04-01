@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+
+body{
+	
+	background:##FFFFFF;
+font-family:  Calibri, sans-serif; 
+
+	
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0% 0%;	
+}
+.whatisblm{
+
+	font-size: 120%; 
+	margin-left: 25%;
+	margin-right: 25%;
+	justify-content: center;
+		
+}
+
+/**estilo pie de pagina*/
+
+footer{
+	
+	margin-top: -1px;
+	width: 96%;
+	padding: 40px;
+	clear: both;
+	background: #A8A8A8;
+	text-align: center;
+	font-size: 120%
+	
+	
+	
+}
+
+.footpage{
+	
+	text-align: center;
+	text-decoration: none;
+	color: #000000;
+                                
+	
+	}
+
+
