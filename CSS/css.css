@@ -1,0 +1,57 @@
+@charset "utf-8";
+/* CSS Document */
+
+@import url('art.css');
+
+body{
+	
+	background:#F0F0F0;
+font-family:  Calibri, sans-serif; 
+
+	background-image:  url("../Imagenes/Copia de proyecto steam.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-attachment: fixed;
+	background-position: 0px center;	
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: #FFA138;
+}
+ li {
+  float: left;
+}
+ li a {
+  display: block;
+  color: #FFFFFF;
+  text-align: center;
+  padding: 18px 20px;
+  text-decoration: none;
+}
+
+.Subjects a:hover {
+	color: #4B2E04
+	
+}
+
+.boton a{
+	
+background-color: #FFB554;
+padding: 16px;
+position:fixed;
+top: 70%;
+left: 15%;
+text-decoration: none;
+color: #000000	
+}
+	
+	
+.boton a:hover{
+	
+color: #ffffff
+}
+	
